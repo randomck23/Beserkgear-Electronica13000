@@ -1,0 +1,87 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Handle Replace",
+          "replace_ids": [
+            13753170814
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Beserkgear-Electronica13000/raw/refs/heads/main/beserkgear%20electronica13000%20body.obj"
+        },
+        {
+          "name": "Blade Replace",
+          "replace_ids": [
+            13753170893
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Beserkgear-Electronica13000/raw/refs/heads/main/beserkgear%20electronica13000%20blade.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Dash Replace",
+          "replace_ids": [
+            16492958314
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20slam.mp3"
+        },
+        {
+          "name": "Slash Replace",
+          "replace_ids": [
+            14111617408,
+            14111617269
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20slash.wav"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            13834995858,
+            17160800186
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Beserkgear-Electronica13000/blob/main/berserkgear%20thumbnail.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Wrap (half White half Bright over Paint)",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Hide Paint Texture",
+          "replace_ids": [
+            "71391425661565:0"
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
